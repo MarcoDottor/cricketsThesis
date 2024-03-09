@@ -1,2 +1,2 @@
-# cricketsThesis
-Optimization model aimed towards optimizing the rearing process of crickets for human consumption.
+# Cricket optimization thesis
+Optimization model aimed towards optimizing the rearing process of crickets for human consumption. Here I'll upload a small snippet of the code. In particular, I'll upload the cyclic model (which is the slim and fast version, opposed to the much bigger but slower finite model), togheter with two small classes used study the result generated, in order to visualize how different choices impact profits. 
